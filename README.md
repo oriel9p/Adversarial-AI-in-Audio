@@ -32,6 +32,11 @@ repo: [https://github.com/RaphaelOlivier/whisper_attack/tree/main](url)\
 
 ## Robustness and defenses
 
+### Randomized Smoothing
+using randomized smoothing can assist in defending against adversarial samples for ASR models.\
+paper: [https://arxiv.org/abs/1902.02918](url)\
+paper: [https://arxiv.org/abs/2103.17122](url)\
+
 ### Robustness of Audio classification models (background noise classification)
 paper: [https://ieeexplore.ieee.org/abstract/document/8922608](url)\
 
