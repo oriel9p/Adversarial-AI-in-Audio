@@ -1,6 +1,6 @@
 # Adversarial-AI-in-Audio
 This repository indexes several valuable resources for adversarial AI in audio.
-![fig](https://github.com/oriel9p/Adversarial-AI-in-Audio/assets/25591399/515edc19-63cb-4ed5-951a-3f831a07efcf)
+<img src="[drawing.jpg](https://github.com/oriel9p/Adversarial-AI-in-Audio/assets/25591399/515edc19-63cb-4ed5-951a-3f831a07efcf)" alt="drawing" width="200"/>
 
 ## Adversarial attacks
 ### Carlini and Wagner, 2018
