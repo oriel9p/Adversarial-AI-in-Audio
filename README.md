@@ -1,6 +1,6 @@
 # Adversarial-AI-in-Audio
 This repository indexes several valuable resources for adversarial AI in audio.
-![alt text]([http://url/to/img.png](https://nicholas.carlini.com/code/audio_adversarial_examples/fig.svg))
+![alt text](https://ibb.co/y5gtqk8)
 ## Adversarial attacks
 ### Carlini and Wagner, 2018
 Carlini and Wagner et al., demonstrated a way to construct adversarial samples againse STT models, by
